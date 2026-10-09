@@ -1,0 +1,5534 @@
+{
+  "meta": {
+    "managingAgent": "Coastal Property Management Ltd",
+    "reportPeriod": {
+      "start": "2025-10-01",
+      "end": "2026-09-30"
+    },
+    "generatedDate": "2026-10-01"
+  },
+  "blocks": [
+    {
+      "id": "HVC",
+      "name": "Harbour View Court",
+      "address": "14–26 Marine Parade, Southend-on-Sea, SS1 2EJ",
+      "totalFlats": 12,
+      "annualBudget": {
+        "insurance": 8400,
+        "gardening": 4200,
+        "cleaning": 3600,
+        "electricity": 2400,
+        "repairsAndMaintenance": 6000,
+        "managementFee": 7200,
+        "accountancy": 1200,
+        "healthAndSafety": 1800,
+        "reserveFundContribution": 13200
+      }
+    },
+    {
+      "id": "WM",
+      "name": "Westcliff Mansions",
+      "address": "2–8 Palmeira Avenue, Westcliff-on-Sea, SS0 7RG",
+      "totalFlats": 8,
+      "annualBudget": {
+        "insurance": 6400,
+        "gardening": 3200,
+        "cleaning": 2400,
+        "electricity": 1600,
+        "repairsAndMaintenance": 4800,
+        "managementFee": 6000,
+        "accountancy": 1200,
+        "healthAndSafety": 1200,
+        "reserveFundContribution": 9200
+      }
+    }
+  ],
+  "flats": [
+    {
+      "id": "HVC-01",
+      "blockId": "HVC",
+      "number": "1",
+      "owner": "Mr & Mrs Thompson",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "HVC-02",
+      "blockId": "HVC",
+      "number": "2",
+      "owner": "Ms Chen",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "HVC-03",
+      "blockId": "HVC",
+      "number": "3",
+      "owner": "Mr Patel",
+      "sharePercent": 8
+    },
+    {
+      "id": "HVC-04",
+      "blockId": "HVC",
+      "number": "4",
+      "owner": "Dr & Mrs Williams",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "HVC-05",
+      "blockId": "HVC",
+      "number": "5",
+      "owner": "Mr O'Brien",
+      "sharePercent": 8
+    },
+    {
+      "id": "HVC-06",
+      "blockId": "HVC",
+      "number": "6",
+      "owner": "Mrs Fletcher",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "HVC-07",
+      "blockId": "HVC",
+      "number": "7",
+      "owner": "Mr & Mrs Kowalski",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "HVC-08",
+      "blockId": "HVC",
+      "number": "8",
+      "owner": "Ms Davies",
+      "sharePercent": 8
+    },
+    {
+      "id": "HVC-09",
+      "blockId": "HVC",
+      "number": "9",
+      "owner": "Mr Hassan",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "HVC-10",
+      "blockId": "HVC",
+      "number": "10",
+      "owner": "Mrs Greenwood",
+      "sharePercent": 8
+    },
+    {
+      "id": "HVC-11",
+      "blockId": "HVC",
+      "number": "11",
+      "owner": "Mr & Mrs Taylor",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "HVC-12",
+      "blockId": "HVC",
+      "number": "12",
+      "owner": "Ms Robinson",
+      "sharePercent": 8.5
+    },
+    {
+      "id": "WM-01",
+      "blockId": "WM",
+      "number": "1",
+      "owner": "Mr & Mrs Barrett",
+      "sharePercent": 12.5
+    },
+    {
+      "id": "WM-02",
+      "blockId": "WM",
+      "number": "2",
+      "owner": "Dr Singh",
+      "sharePercent": 12.5
+    },
+    {
+      "id": "WM-03",
+      "blockId": "WM",
+      "number": "3",
+      "owner": "Ms Turner",
+      "sharePercent": 12.5
+    },
+    {
+      "id": "WM-04",
+      "blockId": "WM",
+      "number": "4",
+      "owner": "Mr & Mrs Okonkwo",
+      "sharePercent": 12.5
+    },
+    {
+      "id": "WM-05",
+      "blockId": "WM",
+      "number": "5",
+      "owner": "Mrs Whitfield",
+      "sharePercent": 12.5
+    },
+    {
+      "id": "WM-06",
+      "blockId": "WM",
+      "number": "6",
+      "owner": "Mr Reeves",
+      "sharePercent": 12.5
+    },
+    {
+      "id": "WM-07",
+      "blockId": "WM",
+      "number": "7",
+      "owner": "Ms Jacobs",
+      "sharePercent": 12.5
+    },
+    {
+      "id": "WM-08",
+      "blockId": "WM",
+      "number": "8",
+      "owner": "Mr & Mrs Lloyd",
+      "sharePercent": 12.5
+    }
+  ],
+  "serviceChargeDemands": [
+    {
+      "id": "DEM-HVC-01-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-01-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-02-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-03-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-03-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-04-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-04-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-05-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-05-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-06-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-06-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-07-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-08-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-08-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-09-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-09-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-10-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-10-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 320
+    },
+    {
+      "id": "DEM-HVC-11-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-11-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-HVC-12-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 340
+    },
+    {
+      "id": "DEM-WM-01-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-01-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-02-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-03-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-04-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-05-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-06-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-07-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2025-10",
+      "dueDate": "2025-10-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2025-11",
+      "dueDate": "2025-11-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2025-12",
+      "dueDate": "2025-12-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-01",
+      "dueDate": "2026-01-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-02",
+      "dueDate": "2026-02-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-03",
+      "dueDate": "2026-03-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-04",
+      "dueDate": "2026-04-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-05",
+      "dueDate": "2026-05-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-06",
+      "dueDate": "2026-06-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-07",
+      "dueDate": "2026-07-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-08",
+      "dueDate": "2026-08-01",
+      "amount": 375
+    },
+    {
+      "id": "DEM-WM-08-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "month": "2026-09",
+      "dueDate": "2026-09-01",
+      "amount": 375
+    }
+  ],
+  "serviceChargePayments": [
+    {
+      "id": "PAY-HVC-01-2025-10",
+      "demandId": "DEM-HVC-01-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2025-10-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2025-11",
+      "demandId": "DEM-HVC-01-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2025-11-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2025-12",
+      "demandId": "DEM-HVC-01-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2025-12-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-01",
+      "demandId": "DEM-HVC-01-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-01-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-02",
+      "demandId": "DEM-HVC-01-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-02-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-03",
+      "demandId": "DEM-HVC-01-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-03-03",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-04",
+      "demandId": "DEM-HVC-01-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-04-03",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-05",
+      "demandId": "DEM-HVC-01-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-05-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-06",
+      "demandId": "DEM-HVC-01-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-06-12",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-07",
+      "demandId": "DEM-HVC-01-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-07-02",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-08",
+      "demandId": "DEM-HVC-01-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-08-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-01-2026-09",
+      "demandId": "DEM-HVC-01-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-01",
+      "date": "2026-09-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2025-10",
+      "demandId": "DEM-HVC-02-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2025-10-16",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2025-11",
+      "demandId": "DEM-HVC-02-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2025-11-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2025-12",
+      "demandId": "DEM-HVC-02-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2025-12-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-01",
+      "demandId": "DEM-HVC-02-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-01-12",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-02",
+      "demandId": "DEM-HVC-02-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-02-04",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-03",
+      "demandId": "DEM-HVC-02-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-03-06",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-04",
+      "demandId": "DEM-HVC-02-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-04-03",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-05",
+      "demandId": "DEM-HVC-02-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-05-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-06",
+      "demandId": "DEM-HVC-02-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-06-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-07",
+      "demandId": "DEM-HVC-02-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-07-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-08",
+      "demandId": "DEM-HVC-02-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-08-06",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-02-2026-09",
+      "demandId": "DEM-HVC-02-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-02",
+      "date": "2026-09-13",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-03-2025-10",
+      "demandId": "DEM-HVC-03-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2025-10-09",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2025-11",
+      "demandId": "DEM-HVC-03-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2025-11-12",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2025-12",
+      "demandId": "DEM-HVC-03-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2025-12-15",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-01",
+      "demandId": "DEM-HVC-03-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-01-07",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-02",
+      "demandId": "DEM-HVC-03-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-02-04",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-03",
+      "demandId": "DEM-HVC-03-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-03-10",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-04",
+      "demandId": "DEM-HVC-03-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-04-05",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-05",
+      "demandId": "DEM-HVC-03-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-05-06",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-06",
+      "demandId": "DEM-HVC-03-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-06-15",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-07",
+      "demandId": "DEM-HVC-03-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-07-08",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-08",
+      "demandId": "DEM-HVC-03-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-08-13",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-03-2026-09",
+      "demandId": "DEM-HVC-03-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-03",
+      "date": "2026-09-16",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-04-2025-10",
+      "demandId": "DEM-HVC-04-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2025-10-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2025-11",
+      "demandId": "DEM-HVC-04-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2025-11-02",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2025-12",
+      "demandId": "DEM-HVC-04-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2025-12-12",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-01",
+      "demandId": "DEM-HVC-04-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-01-11",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-02",
+      "demandId": "DEM-HVC-04-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-02-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-03",
+      "demandId": "DEM-HVC-04-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-03-08",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-04",
+      "demandId": "DEM-HVC-04-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-04-13",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-05",
+      "demandId": "DEM-HVC-04-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-05-06",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-06",
+      "demandId": "DEM-HVC-04-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-06-09",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-07",
+      "demandId": "DEM-HVC-04-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-07-16",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-08",
+      "demandId": "DEM-HVC-04-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-08-02",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-04-2026-09",
+      "demandId": "DEM-HVC-04-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-04",
+      "date": "2026-09-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-05-2025-10",
+      "demandId": "DEM-HVC-05-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2025-10-04",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2025-11",
+      "demandId": "DEM-HVC-05-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2025-11-10",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2025-12",
+      "demandId": "DEM-HVC-05-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2025-12-11",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2026-01",
+      "demandId": "DEM-HVC-05-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2026-01-16",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2026-02",
+      "demandId": "DEM-HVC-05-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2026-02-04",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2026-03",
+      "demandId": "DEM-HVC-05-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2026-03-09",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2026-04",
+      "demandId": "DEM-HVC-05-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2026-04-11",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2026-05",
+      "demandId": "DEM-HVC-05-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2026-05-11",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-05-2026-06",
+      "demandId": "DEM-HVC-05-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-05",
+      "date": "2026-06-04",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-06-2025-10",
+      "demandId": "DEM-HVC-06-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2025-10-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2025-11",
+      "demandId": "DEM-HVC-06-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2025-11-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2025-12",
+      "demandId": "DEM-HVC-06-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2025-12-12",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-01",
+      "demandId": "DEM-HVC-06-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-01-16",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-02",
+      "demandId": "DEM-HVC-06-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-02-03",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-03",
+      "demandId": "DEM-HVC-06-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-03-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-04",
+      "demandId": "DEM-HVC-06-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-04-04",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-05",
+      "demandId": "DEM-HVC-06-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-05-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-06",
+      "demandId": "DEM-HVC-06-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-06-04",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-07",
+      "demandId": "DEM-HVC-06-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-07-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-08",
+      "demandId": "DEM-HVC-06-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-08-16",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-06-2026-09",
+      "demandId": "DEM-HVC-06-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-06",
+      "date": "2026-09-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2025-10",
+      "demandId": "DEM-HVC-07-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2025-10-08",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2025-11",
+      "demandId": "DEM-HVC-07-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2025-11-04",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2025-12",
+      "demandId": "DEM-HVC-07-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2025-12-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-01",
+      "demandId": "DEM-HVC-07-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-01-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-02",
+      "demandId": "DEM-HVC-07-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-02-09",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-03",
+      "demandId": "DEM-HVC-07-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-03-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-04",
+      "demandId": "DEM-HVC-07-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-04-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-05",
+      "demandId": "DEM-HVC-07-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-05-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-06",
+      "demandId": "DEM-HVC-07-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-06-08",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-07",
+      "demandId": "DEM-HVC-07-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-07-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-08",
+      "demandId": "DEM-HVC-07-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-08-02",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-07-2026-09",
+      "demandId": "DEM-HVC-07-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-07",
+      "date": "2026-09-04",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-08-2025-10",
+      "demandId": "DEM-HVC-08-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2025-10-08",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2025-11",
+      "demandId": "DEM-HVC-08-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2025-11-02",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2025-12",
+      "demandId": "DEM-HVC-08-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2025-12-11",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-01",
+      "demandId": "DEM-HVC-08-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-01-11",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-02",
+      "demandId": "DEM-HVC-08-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-02-10",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-03",
+      "demandId": "DEM-HVC-08-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-03-02",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-04",
+      "demandId": "DEM-HVC-08-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-04-08",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-05",
+      "demandId": "DEM-HVC-08-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-05-13",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-06",
+      "demandId": "DEM-HVC-08-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-06-05",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-07",
+      "demandId": "DEM-HVC-08-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-07-13",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-08",
+      "demandId": "DEM-HVC-08-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-08-03",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-08-2026-09",
+      "demandId": "DEM-HVC-08-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-08",
+      "date": "2026-09-09",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-09-2025-10",
+      "demandId": "DEM-HVC-09-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2025-10-11",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2025-11",
+      "demandId": "DEM-HVC-09-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2025-11-13",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2025-12",
+      "demandId": "DEM-HVC-09-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2025-12-08",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2026-01",
+      "demandId": "DEM-HVC-09-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2026-01-02",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2026-02",
+      "demandId": "DEM-HVC-09-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2026-02-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2026-03",
+      "demandId": "DEM-HVC-09-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2026-03-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2026-04",
+      "demandId": "DEM-HVC-09-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2026-04-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2026-05",
+      "demandId": "DEM-HVC-09-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2026-05-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2026-06",
+      "demandId": "DEM-HVC-09-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2026-06-04",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-09-2026-07",
+      "demandId": "DEM-HVC-09-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-09",
+      "date": "2026-07-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-10-2025-10",
+      "demandId": "DEM-HVC-10-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2025-10-16",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2025-11",
+      "demandId": "DEM-HVC-10-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2025-11-07",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2025-12",
+      "demandId": "DEM-HVC-10-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2025-12-04",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-01",
+      "demandId": "DEM-HVC-10-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-01-16",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-02",
+      "demandId": "DEM-HVC-10-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-02-15",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-03",
+      "demandId": "DEM-HVC-10-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-03-11",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-04",
+      "demandId": "DEM-HVC-10-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-04-12",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-05",
+      "demandId": "DEM-HVC-10-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-05-05",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-06",
+      "demandId": "DEM-HVC-10-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-06-02",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-07",
+      "demandId": "DEM-HVC-10-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-07-09",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-08",
+      "demandId": "DEM-HVC-10-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-08-10",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-10-2026-09",
+      "demandId": "DEM-HVC-10-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-10",
+      "date": "2026-09-14",
+      "amount": 320
+    },
+    {
+      "id": "PAY-HVC-11-2025-10",
+      "demandId": "DEM-HVC-11-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2025-10-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2025-11",
+      "demandId": "DEM-HVC-11-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2025-11-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2025-12",
+      "demandId": "DEM-HVC-11-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2025-12-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-01",
+      "demandId": "DEM-HVC-11-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-01-11",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-02",
+      "demandId": "DEM-HVC-11-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-02-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-03",
+      "demandId": "DEM-HVC-11-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-03-16",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-04",
+      "demandId": "DEM-HVC-11-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-04-07",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-05",
+      "demandId": "DEM-HVC-11-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-05-02",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-06",
+      "demandId": "DEM-HVC-11-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-06-09",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-07",
+      "demandId": "DEM-HVC-11-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-07-14",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-08",
+      "demandId": "DEM-HVC-11-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-08-08",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-11-2026-09",
+      "demandId": "DEM-HVC-11-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-11",
+      "date": "2026-09-03",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2025-10",
+      "demandId": "DEM-HVC-12-2025-10",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2025-10-08",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2025-11",
+      "demandId": "DEM-HVC-12-2025-11",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2025-11-05",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2025-12",
+      "demandId": "DEM-HVC-12-2025-12",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2025-12-13",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-01",
+      "demandId": "DEM-HVC-12-2026-01",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-01-06",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-02",
+      "demandId": "DEM-HVC-12-2026-02",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-02-16",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-03",
+      "demandId": "DEM-HVC-12-2026-03",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-03-08",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-04",
+      "demandId": "DEM-HVC-12-2026-04",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-04-06",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-05",
+      "demandId": "DEM-HVC-12-2026-05",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-05-09",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-06",
+      "demandId": "DEM-HVC-12-2026-06",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-06-15",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-07",
+      "demandId": "DEM-HVC-12-2026-07",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-07-12",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-08",
+      "demandId": "DEM-HVC-12-2026-08",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-08-10",
+      "amount": 340
+    },
+    {
+      "id": "PAY-HVC-12-2026-09",
+      "demandId": "DEM-HVC-12-2026-09",
+      "blockId": "HVC",
+      "flatId": "HVC-12",
+      "date": "2026-09-16",
+      "amount": 340
+    },
+    {
+      "id": "PAY-WM-01-2025-10",
+      "demandId": "DEM-WM-01-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2025-10-03",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2025-11",
+      "demandId": "DEM-WM-01-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2025-11-09",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2025-12",
+      "demandId": "DEM-WM-01-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2025-12-09",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-01",
+      "demandId": "DEM-WM-01-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-01-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-02",
+      "demandId": "DEM-WM-01-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-02-04",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-03",
+      "demandId": "DEM-WM-01-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-03-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-04",
+      "demandId": "DEM-WM-01-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-04-04",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-05",
+      "demandId": "DEM-WM-01-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-05-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-06",
+      "demandId": "DEM-WM-01-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-06-15",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-07",
+      "demandId": "DEM-WM-01-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-07-08",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-08",
+      "demandId": "DEM-WM-01-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-08-09",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-01-2026-09",
+      "demandId": "DEM-WM-01-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-01",
+      "date": "2026-09-14",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2025-10",
+      "demandId": "DEM-WM-02-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2025-10-04",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2025-11",
+      "demandId": "DEM-WM-02-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2025-11-02",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2025-12",
+      "demandId": "DEM-WM-02-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2025-12-08",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-01",
+      "demandId": "DEM-WM-02-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-01-15",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-02",
+      "demandId": "DEM-WM-02-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-02-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-03",
+      "demandId": "DEM-WM-02-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-03-15",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-04",
+      "demandId": "DEM-WM-02-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-04-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-05",
+      "demandId": "DEM-WM-02-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-05-05",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-06",
+      "demandId": "DEM-WM-02-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-06-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-07",
+      "demandId": "DEM-WM-02-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-07-05",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-08",
+      "demandId": "DEM-WM-02-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-08-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-02-2026-09",
+      "demandId": "DEM-WM-02-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-02",
+      "date": "2026-09-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2025-10",
+      "demandId": "DEM-WM-03-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2025-10-16",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2025-11",
+      "demandId": "DEM-WM-03-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2025-11-08",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2025-12",
+      "demandId": "DEM-WM-03-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2025-12-04",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-01",
+      "demandId": "DEM-WM-03-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-01-14",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-02",
+      "demandId": "DEM-WM-03-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-02-02",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-03",
+      "demandId": "DEM-WM-03-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-03-02",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-04",
+      "demandId": "DEM-WM-03-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-04-09",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-05",
+      "demandId": "DEM-WM-03-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-05-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-06",
+      "demandId": "DEM-WM-03-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-06-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-07",
+      "demandId": "DEM-WM-03-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-07-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-03-2026-08",
+      "demandId": "DEM-WM-03-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-03",
+      "date": "2026-08-05",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2025-10",
+      "demandId": "DEM-WM-04-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2025-10-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2025-11",
+      "demandId": "DEM-WM-04-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2025-11-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2025-12",
+      "demandId": "DEM-WM-04-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2025-12-02",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-01",
+      "demandId": "DEM-WM-04-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-01-07",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-02",
+      "demandId": "DEM-WM-04-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-02-09",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-03",
+      "demandId": "DEM-WM-04-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-03-16",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-04",
+      "demandId": "DEM-WM-04-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-04-16",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-05",
+      "demandId": "DEM-WM-04-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-05-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-06",
+      "demandId": "DEM-WM-04-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-06-15",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-07",
+      "demandId": "DEM-WM-04-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-07-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-08",
+      "demandId": "DEM-WM-04-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-08-14",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-04-2026-09",
+      "demandId": "DEM-WM-04-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-04",
+      "date": "2026-09-06",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2025-10",
+      "demandId": "DEM-WM-05-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2025-10-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2025-11",
+      "demandId": "DEM-WM-05-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2025-11-05",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2025-12",
+      "demandId": "DEM-WM-05-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2025-12-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-01",
+      "demandId": "DEM-WM-05-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-01-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-02",
+      "demandId": "DEM-WM-05-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-02-06",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-03",
+      "demandId": "DEM-WM-05-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-03-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-04",
+      "demandId": "DEM-WM-05-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-04-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-05",
+      "demandId": "DEM-WM-05-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-05-05",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-06",
+      "demandId": "DEM-WM-05-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-06-08",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-07",
+      "demandId": "DEM-WM-05-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-07-07",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-08",
+      "demandId": "DEM-WM-05-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-08-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-05-2026-09",
+      "demandId": "DEM-WM-05-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-05",
+      "date": "2026-09-08",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2025-10",
+      "demandId": "DEM-WM-06-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2025-10-05",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2025-11",
+      "demandId": "DEM-WM-06-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2025-11-06",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2025-12",
+      "demandId": "DEM-WM-06-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2025-12-14",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2026-01",
+      "demandId": "DEM-WM-06-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2026-01-06",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2026-02",
+      "demandId": "DEM-WM-06-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2026-02-03",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2026-03",
+      "demandId": "DEM-WM-06-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2026-03-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2026-04",
+      "demandId": "DEM-WM-06-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2026-04-02",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-06-2026-05",
+      "demandId": "DEM-WM-06-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-06",
+      "date": "2026-05-08",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2025-10",
+      "demandId": "DEM-WM-07-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2025-10-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2025-11",
+      "demandId": "DEM-WM-07-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2025-11-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2025-12",
+      "demandId": "DEM-WM-07-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2025-12-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-01",
+      "demandId": "DEM-WM-07-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-01-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-02",
+      "demandId": "DEM-WM-07-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-02-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-03",
+      "demandId": "DEM-WM-07-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-03-03",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-04",
+      "demandId": "DEM-WM-07-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-04-11",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-05",
+      "demandId": "DEM-WM-07-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-05-10",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-06",
+      "demandId": "DEM-WM-07-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-06-07",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-07",
+      "demandId": "DEM-WM-07-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-07-16",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-08",
+      "demandId": "DEM-WM-07-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-08-03",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-07-2026-09",
+      "demandId": "DEM-WM-07-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-07",
+      "date": "2026-09-05",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2025-10",
+      "demandId": "DEM-WM-08-2025-10",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2025-10-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2025-11",
+      "demandId": "DEM-WM-08-2025-11",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2025-11-12",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2025-12",
+      "demandId": "DEM-WM-08-2025-12",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2025-12-02",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-01",
+      "demandId": "DEM-WM-08-2026-01",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-01-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-02",
+      "demandId": "DEM-WM-08-2026-02",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-02-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-03",
+      "demandId": "DEM-WM-08-2026-03",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-03-15",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-04",
+      "demandId": "DEM-WM-08-2026-04",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-04-16",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-05",
+      "demandId": "DEM-WM-08-2026-05",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-05-09",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-06",
+      "demandId": "DEM-WM-08-2026-06",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-06-13",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-07",
+      "demandId": "DEM-WM-08-2026-07",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-07-14",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-08",
+      "demandId": "DEM-WM-08-2026-08",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-08-08",
+      "amount": 375
+    },
+    {
+      "id": "PAY-WM-08-2026-09",
+      "demandId": "DEM-WM-08-2026-09",
+      "blockId": "WM",
+      "flatId": "WM-08",
+      "date": "2026-09-08",
+      "amount": 375
+    }
+  ],
+  "expenditure": [
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "insurance",
+      "amount": 8250
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "gardening",
+      "amount": 215.22
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-11",
+      "category": "gardening",
+      "amount": 215.22
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-12",
+      "category": "gardening",
+      "amount": 215.22
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-01",
+      "category": "gardening",
+      "amount": 344.35
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-02",
+      "category": "gardening",
+      "amount": 645.65
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-03",
+      "category": "gardening",
+      "amount": 860.87
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "category": "gardening",
+      "amount": 860.87
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-05",
+      "category": "gardening",
+      "amount": 645.65
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-06",
+      "category": "gardening",
+      "amount": 430.43
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-07",
+      "category": "gardening",
+      "amount": 215.22
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-08",
+      "category": "gardening",
+      "amount": 215.22
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-09",
+      "category": "gardening",
+      "amount": 86.08
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-11",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-12",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-01",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-02",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-03",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-05",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-06",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-07",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-08",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-09",
+      "category": "cleaning",
+      "amount": 290
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "electricity",
+      "amount": 273
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-11",
+      "category": "electricity",
+      "amount": 273
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-12",
+      "category": "electricity",
+      "amount": 252
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-01",
+      "category": "electricity",
+      "amount": 210
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-02",
+      "category": "electricity",
+      "amount": 168
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-03",
+      "category": "electricity",
+      "amount": 147
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "category": "electricity",
+      "amount": 147
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-05",
+      "category": "electricity",
+      "amount": 147
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-06",
+      "category": "electricity",
+      "amount": 168
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-07",
+      "category": "electricity",
+      "amount": 210
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-08",
+      "category": "electricity",
+      "amount": 252
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-09",
+      "category": "electricity",
+      "amount": 273
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "repairsAndMaintenance",
+      "amount": 400
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-11",
+      "category": "repairsAndMaintenance",
+      "amount": 300
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-12",
+      "category": "repairsAndMaintenance",
+      "amount": 800
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-01",
+      "category": "repairsAndMaintenance",
+      "amount": 350
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-02",
+      "category": "repairsAndMaintenance",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-03",
+      "category": "repairsAndMaintenance",
+      "amount": 1200
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "category": "repairsAndMaintenance",
+      "amount": 500
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-05",
+      "category": "repairsAndMaintenance",
+      "amount": 450
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-06",
+      "category": "repairsAndMaintenance",
+      "amount": 700
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-07",
+      "category": "repairsAndMaintenance",
+      "amount": 500
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-08",
+      "category": "repairsAndMaintenance",
+      "amount": 500
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-09",
+      "category": "repairsAndMaintenance",
+      "amount": 500
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-11",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-12",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-01",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-02",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-03",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-05",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-06",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-07",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-08",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-09",
+      "category": "managementFee",
+      "amount": 600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "accountancy",
+      "amount": 1200
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "healthAndSafety",
+      "amount": 875
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "category": "healthAndSafety",
+      "amount": 875
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-11",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-12",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-01",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-02",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-03",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-05",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-06",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-07",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-08",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-09",
+      "category": "reserveFundContribution",
+      "amount": 1100
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "insurance",
+      "amount": 6300
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "gardening",
+      "amount": 134.78
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-11",
+      "category": "gardening",
+      "amount": 134.78
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-12",
+      "category": "gardening",
+      "amount": 134.78
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "category": "gardening",
+      "amount": 215.65
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-02",
+      "category": "gardening",
+      "amount": 404.35
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-03",
+      "category": "gardening",
+      "amount": 539.13
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "gardening",
+      "amount": 539.13
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-05",
+      "category": "gardening",
+      "amount": 404.35
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-06",
+      "category": "gardening",
+      "amount": 269.57
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "category": "gardening",
+      "amount": 134.78
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-08",
+      "category": "gardening",
+      "amount": 134.78
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-09",
+      "category": "gardening",
+      "amount": 53.92
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-11",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-12",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-02",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-03",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-05",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-06",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-08",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-09",
+      "category": "cleaning",
+      "amount": 200
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "electricity",
+      "amount": 186.33
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-11",
+      "category": "electricity",
+      "amount": 186.33
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-12",
+      "category": "electricity",
+      "amount": 172
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "category": "electricity",
+      "amount": 143.33
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-02",
+      "category": "electricity",
+      "amount": 114.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-03",
+      "category": "electricity",
+      "amount": 100.33
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "electricity",
+      "amount": 100.33
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-05",
+      "category": "electricity",
+      "amount": 100.33
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-06",
+      "category": "electricity",
+      "amount": 114.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "category": "electricity",
+      "amount": 143.33
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-08",
+      "category": "electricity",
+      "amount": 172
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-09",
+      "category": "electricity",
+      "amount": 186.35
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "repairsAndMaintenance",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-11",
+      "category": "repairsAndMaintenance",
+      "amount": 450
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-12",
+      "category": "repairsAndMaintenance",
+      "amount": 350
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "category": "repairsAndMaintenance",
+      "amount": 400
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-02",
+      "category": "repairsAndMaintenance",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-03",
+      "category": "repairsAndMaintenance",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "repairsAndMaintenance",
+      "amount": 1500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-05",
+      "category": "repairsAndMaintenance",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-06",
+      "category": "repairsAndMaintenance",
+      "amount": 400
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "category": "repairsAndMaintenance",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-08",
+      "category": "repairsAndMaintenance",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-09",
+      "category": "repairsAndMaintenance",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-11",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-12",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-02",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-03",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-05",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-06",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-08",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-09",
+      "category": "managementFee",
+      "amount": 500
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "accountancy",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "category": "accountancy",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "accountancy",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "category": "accountancy",
+      "amount": 300
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "healthAndSafety",
+      "amount": 575
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "healthAndSafety",
+      "amount": 575
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-11",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-12",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-02",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-03",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-05",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-06",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-08",
+      "category": "reserveFundContribution",
+      "amount": 766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-09",
+      "category": "reserveFundContribution",
+      "amount": 766.63
+    }
+  ],
+  "repairs": [
+    {
+      "id": "REP-HVC-001",
+      "blockId": "HVC",
+      "title": "Communal boiler annual service",
+      "description": "Annual service and safety check of communal heating boiler",
+      "priority": "routine",
+      "status": "completed",
+      "reportedDate": "2025-10-05",
+      "completedDate": "2025-10-18",
+      "cost": 480,
+      "contractor": "Essex Gas Services Ltd"
+    },
+    {
+      "id": "REP-HVC-002",
+      "blockId": "HVC",
+      "title": "Hallway carpet replacement (ground floor)",
+      "description": "Replace worn carpet in ground floor communal hallway",
+      "priority": "medium",
+      "status": "completed",
+      "reportedDate": "2025-11-12",
+      "completedDate": "2025-12-20",
+      "cost": 1850,
+      "contractor": "Southend Flooring Co"
+    },
+    {
+      "id": "REP-HVC-003",
+      "blockId": "HVC",
+      "title": "Roof leak repair – Flat 12",
+      "description": "Emergency repair to roof above Flat 12 causing water ingress to bedroom ceiling",
+      "priority": "emergency",
+      "status": "completed",
+      "reportedDate": "2026-01-03",
+      "completedDate": "2026-01-10",
+      "cost": 4200,
+      "contractor": "Apex Roofing Solutions"
+    },
+    {
+      "id": "REP-HVC-004",
+      "blockId": "HVC",
+      "title": "Entry phone system repair",
+      "description": "Repair faulty intercom handset units in Flats 3, 7 and 11",
+      "priority": "medium",
+      "status": "completed",
+      "reportedDate": "2026-02-15",
+      "completedDate": "2026-03-22",
+      "cost": 620,
+      "contractor": "SecureEntry Systems"
+    },
+    {
+      "id": "REP-HVC-005",
+      "blockId": "HVC",
+      "title": "Emergency lighting replacement",
+      "description": "Replace failed emergency lighting units in stairwells (floors 1–3)",
+      "priority": "high",
+      "status": "completed",
+      "reportedDate": "2026-04-20",
+      "completedDate": "2026-05-08",
+      "cost": 940,
+      "contractor": "Brightlight Electrical"
+    },
+    {
+      "id": "REP-HVC-006",
+      "blockId": "HVC",
+      "title": "External drain clearance",
+      "description": "Clear blocked external drain at rear of building causing standing water",
+      "priority": "medium",
+      "status": "completed",
+      "reportedDate": "2026-05-28",
+      "completedDate": "2026-06-12",
+      "cost": 350,
+      "contractor": "DrainPro Essex"
+    },
+    {
+      "id": "REP-HVC-007",
+      "blockId": "HVC",
+      "title": "Communal window repair – 3rd floor landing",
+      "description": "Repair broken sash mechanism on 3rd floor landing window; window will not close securely",
+      "priority": "high",
+      "status": "open",
+      "reportedDate": "2026-07-14",
+      "completedDate": null,
+      "cost": null,
+      "contractor": "Pending quotation"
+    },
+    {
+      "id": "REP-HVC-008",
+      "blockId": "HVC",
+      "title": "Car park pothole repair",
+      "description": "Two significant potholes in resident car park near spaces 4–6",
+      "priority": "medium",
+      "status": "open",
+      "reportedDate": "2026-08-05",
+      "completedDate": null,
+      "cost": null,
+      "contractor": "Quotation received – £1,200"
+    },
+    {
+      "id": "REP-HVC-009",
+      "blockId": "HVC",
+      "title": "Communal hallway ceiling leak",
+      "description": "Water stain and active drip on 2nd floor hallway ceiling, source under investigation",
+      "priority": "high",
+      "status": "open",
+      "reportedDate": "2026-09-18",
+      "completedDate": null,
+      "cost": null,
+      "contractor": "Apex Roofing Solutions (inspection booked)"
+    },
+    {
+      "id": "REP-WM-001",
+      "blockId": "WM",
+      "title": "Communal boiler service",
+      "description": "Annual service of communal heating system",
+      "priority": "routine",
+      "status": "completed",
+      "reportedDate": "2025-10-20",
+      "completedDate": "2025-11-08",
+      "cost": 380,
+      "contractor": "Essex Gas Services Ltd"
+    },
+    {
+      "id": "REP-WM-002",
+      "blockId": "WM",
+      "title": "Front entrance door lock replacement",
+      "description": "Replace worn lock mechanism on main front entrance door",
+      "priority": "high",
+      "status": "completed",
+      "reportedDate": "2025-12-10",
+      "completedDate": "2026-01-05",
+      "cost": 520,
+      "contractor": "SecureEntry Systems"
+    },
+    {
+      "id": "REP-WM-003",
+      "blockId": "WM",
+      "title": "Guttering repair – rear elevation",
+      "description": "Repair leaking gutter joint on rear elevation causing damp to external wall",
+      "priority": "medium",
+      "status": "completed",
+      "reportedDate": "2026-02-18",
+      "completedDate": "2026-03-15",
+      "cost": 680,
+      "contractor": "Apex Roofing Solutions"
+    },
+    {
+      "id": "REP-WM-004",
+      "blockId": "WM",
+      "title": "Communal lighting upgrade",
+      "description": "Replace communal hallway lighting with LED fittings and PIR sensors",
+      "priority": "medium",
+      "status": "completed",
+      "reportedDate": "2026-03-01",
+      "completedDate": "2026-04-10",
+      "cost": 1450,
+      "contractor": "Brightlight Electrical"
+    },
+    {
+      "id": "REP-WM-005",
+      "blockId": "WM",
+      "title": "Basement damp treatment",
+      "description": "Specialist damp-proofing treatment to basement storage area",
+      "priority": "high",
+      "status": "completed",
+      "reportedDate": "2026-05-05",
+      "completedDate": "2026-07-20",
+      "cost": 3200,
+      "contractor": "DryFix Damp Solutions"
+    },
+    {
+      "id": "REP-WM-006",
+      "blockId": "WM",
+      "title": "Window sash cord repair – Flat 2",
+      "description": "Replace broken sash cords on two windows in Flat 2 (communal responsibility per lease)",
+      "priority": "medium",
+      "status": "open",
+      "reportedDate": "2026-08-12",
+      "completedDate": null,
+      "cost": null,
+      "contractor": "Quotation requested"
+    },
+    {
+      "id": "REP-WM-007",
+      "blockId": "WM",
+      "title": "Pointing repair – rear elevation",
+      "description": "Repoint deteriorated mortar joints on rear elevation (2nd and 3rd floor sections)",
+      "priority": "medium",
+      "status": "open",
+      "reportedDate": "2026-09-02",
+      "completedDate": null,
+      "cost": null,
+      "contractor": "Pending specification"
+    }
+  ],
+  "reserveFund": [
+    {
+      "blockId": "HVC",
+      "month": "2025-10",
+      "openingBalance": 45000,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 46100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-11",
+      "openingBalance": 46100,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 47200
+    },
+    {
+      "blockId": "HVC",
+      "month": "2025-12",
+      "openingBalance": 47200,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 48300
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-01",
+      "openingBalance": 48300,
+      "contribution": 1100,
+      "withdrawal": 5000,
+      "withdrawalNote": "Emergency roof repair (Flat 12 leak)",
+      "closingBalance": 44400
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-02",
+      "openingBalance": 44400,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 45500
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-03",
+      "openingBalance": 45500,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 46600
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-04",
+      "openingBalance": 46600,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 47700
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-05",
+      "openingBalance": 47700,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 48800
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-06",
+      "openingBalance": 48800,
+      "contribution": 1100,
+      "withdrawal": 15000,
+      "withdrawalNote": "Roof replacement project – contractor deposit",
+      "closingBalance": 34900
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-07",
+      "openingBalance": 34900,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 36000
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-08",
+      "openingBalance": 36000,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 37100
+    },
+    {
+      "blockId": "HVC",
+      "month": "2026-09",
+      "openingBalance": 37100,
+      "contribution": 1100,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 38200
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-10",
+      "openingBalance": 28000,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 28766.67
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-11",
+      "openingBalance": 28766.67,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 29533.34
+    },
+    {
+      "blockId": "WM",
+      "month": "2025-12",
+      "openingBalance": 29533.34,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 30300.01
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-01",
+      "openingBalance": 30300.01,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 31066.68
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-02",
+      "openingBalance": 31066.68,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 31833.35
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-03",
+      "openingBalance": 31833.35,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 32600.02
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-04",
+      "openingBalance": 32600.02,
+      "contribution": 766.67,
+      "withdrawal": 3500,
+      "withdrawalNote": "Basement damp treatment",
+      "closingBalance": 29866.69
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-05",
+      "openingBalance": 29866.69,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 30633.36
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-06",
+      "openingBalance": 30633.36,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 31400.03
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-07",
+      "openingBalance": 31400.03,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 32166.7
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-08",
+      "openingBalance": 32166.7,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 32933.37
+    },
+    {
+      "blockId": "WM",
+      "month": "2026-09",
+      "openingBalance": 32933.37,
+      "contribution": 766.67,
+      "withdrawal": 0,
+      "withdrawalNote": null,
+      "closingBalance": 33700.04
+    }
+  ],
+  "compliance": [
+    {
+      "id": "COMP-HVC-01",
+      "blockId": "HVC",
+      "item": "Fire Risk Assessment",
+      "frequency": "Annual",
+      "lastCompleted": "2025-11-15",
+      "nextDue": "2026-11-15"
+    },
+    {
+      "id": "COMP-HVC-02",
+      "blockId": "HVC",
+      "item": "Gas Safety Certificate (CP12)",
+      "frequency": "Annual",
+      "lastCompleted": "2025-12-01",
+      "nextDue": "2026-12-01"
+    },
+    {
+      "id": "COMP-HVC-03",
+      "blockId": "HVC",
+      "item": "Electrical Installation (EICR)",
+      "frequency": "5-yearly",
+      "lastCompleted": "2023-03-15",
+      "nextDue": "2028-03-15"
+    },
+    {
+      "id": "COMP-HVC-04",
+      "blockId": "HVC",
+      "item": "Asbestos Re-inspection",
+      "frequency": "Annual",
+      "lastCompleted": "2025-06-20",
+      "nextDue": "2026-06-20"
+    },
+    {
+      "id": "COMP-HVC-05",
+      "blockId": "HVC",
+      "item": "Buildings Insurance",
+      "frequency": "Annual",
+      "lastCompleted": "2025-10-01",
+      "nextDue": "2026-10-01"
+    },
+    {
+      "id": "COMP-HVC-06",
+      "blockId": "HVC",
+      "item": "Legionella Risk Assessment",
+      "frequency": "2-yearly",
+      "lastCompleted": "2025-01-10",
+      "nextDue": "2027-01-10"
+    },
+    {
+      "id": "COMP-HVC-07",
+      "blockId": "HVC",
+      "item": "Lift Inspection (LOLER)",
+      "frequency": "6-monthly",
+      "lastCompleted": "2026-03-15",
+      "nextDue": "2026-09-15"
+    },
+    {
+      "id": "COMP-HVC-08",
+      "blockId": "HVC",
+      "item": "PAT Testing",
+      "frequency": "Annual",
+      "lastCompleted": "2026-02-01",
+      "nextDue": "2027-02-01"
+    },
+    {
+      "id": "COMP-WM-01",
+      "blockId": "WM",
+      "item": "Fire Risk Assessment",
+      "frequency": "Annual",
+      "lastCompleted": "2026-02-20",
+      "nextDue": "2027-02-20"
+    },
+    {
+      "id": "COMP-WM-02",
+      "blockId": "WM",
+      "item": "Gas Safety Certificate (CP12)",
+      "frequency": "Annual",
+      "lastCompleted": "2026-01-15",
+      "nextDue": "2027-01-15"
+    },
+    {
+      "id": "COMP-WM-03",
+      "blockId": "WM",
+      "item": "Electrical Installation (EICR)",
+      "frequency": "5-yearly",
+      "lastCompleted": "2024-06-01",
+      "nextDue": "2029-06-01"
+    },
+    {
+      "id": "COMP-WM-04",
+      "blockId": "WM",
+      "item": "Asbestos Management Survey",
+      "frequency": "Annual",
+      "lastCompleted": "2026-05-10",
+      "nextDue": "2027-05-10"
+    },
+    {
+      "id": "COMP-WM-05",
+      "blockId": "WM",
+      "item": "Buildings Insurance",
+      "frequency": "Annual",
+      "lastCompleted": "2026-04-01",
+      "nextDue": "2027-04-01"
+    },
+    {
+      "id": "COMP-WM-06",
+      "blockId": "WM",
+      "item": "Legionella Risk Assessment",
+      "frequency": "2-yearly",
+      "lastCompleted": "2025-08-20",
+      "nextDue": "2027-08-20"
+    },
+    {
+      "id": "COMP-WM-07",
+      "blockId": "WM",
+      "item": "PAT Testing",
+      "frequency": "Annual",
+      "lastCompleted": "2025-09-15",
+      "nextDue": "2026-09-15"
+    }
+  ],
+  "majorWorks": [
+    {
+      "id": "MW-HVC-01",
+      "blockId": "HVC",
+      "title": "Roof Replacement",
+      "description": "Complete replacement of flat roof covering and insulation to main roof area. Existing roof is beyond economic repair following multiple leak incidents.",
+      "estimatedCost": 85000,
+      "stages": [
+        {
+          "name": "Notice of Intention",
+          "status": "completed",
+          "date": "2026-01-15",
+          "notes": "Served to all leaseholders"
+        },
+        {
+          "name": "Consultation period (30 days)",
+          "status": "completed",
+          "date": "2026-02-14",
+          "notes": "3 observations received and considered"
+        },
+        {
+          "name": "Obtain estimates",
+          "status": "completed",
+          "date": "2026-04-30",
+          "notes": "4 tenders received (£78k–£92k)"
+        },
+        {
+          "name": "Statement of Estimates",
+          "status": "completed",
+          "date": "2026-05-15",
+          "notes": "Served with summary of tenders"
+        },
+        {
+          "name": "Consultation on estimates (30 days)",
+          "status": "completed",
+          "date": "2026-06-14",
+          "notes": "2 observations received"
+        },
+        {
+          "name": "Contract awarded",
+          "status": "completed",
+          "date": "2026-07-01",
+          "notes": "Awarded to Apex Roofing Solutions – £82,500"
+        },
+        {
+          "name": "Works in progress",
+          "status": "in-progress",
+          "date": "2026-07-15",
+          "notes": "Scaffolding erected; strip and re-cover 60% complete. Est. completion Dec 2026"
+        },
+        {
+          "name": "Final account",
+          "status": "pending",
+          "date": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "id": "MW-WM-01",
+      "blockId": "WM",
+      "title": "External Decoration",
+      "description": "Full external redecoration programme including preparation, repair and painting of all rendered elevations, windows, doors and metalwork.",
+      "estimatedCost": 42000,
+      "stages": [
+        {
+          "name": "Notice of Intention",
+          "status": "completed",
+          "date": "2026-08-01",
+          "notes": "Served to all leaseholders"
+        },
+        {
+          "name": "Consultation period (30 days)",
+          "status": "completed",
+          "date": "2026-09-01",
+          "notes": "1 observation received"
+        },
+        {
+          "name": "Obtain estimates",
+          "status": "in-progress",
+          "date": null,
+          "notes": "Specification issued to 5 contractors; tenders due by 31 Oct 2026"
+        },
+        {
+          "name": "Statement of Estimates",
+          "status": "pending",
+          "date": null,
+          "notes": null
+        },
+        {
+          "name": "Consultation on estimates (30 days)",
+          "status": "pending",
+          "date": null,
+          "notes": null
+        },
+        {
+          "name": "Contract awarded",
+          "status": "pending",
+          "date": null,
+          "notes": null
+        },
+        {
+          "name": "Works in progress",
+          "status": "pending",
+          "date": null,
+          "notes": null
+        },
+        {
+          "name": "Final account",
+          "status": "pending",
+          "date": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}
